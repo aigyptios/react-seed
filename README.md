@@ -1,0 +1,1 @@
+A barebones template for creating react applications without create-react-app, based on https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658
